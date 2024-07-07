@@ -13,4 +13,6 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estrutur
 ## 🚀 Resultados
 O e-book oferece uma compreensão clara dos conceitos de IA e aprendizado de máquina, com um exemplo prático que alcança uma acurácia de 97% na classificação de flores.
 
+Segue o Link do e-book abaixo:
+
 [https://gamma.app/docs/Introducao-a-Inteligencia-Artificial-com-Exemplo-Pratico-de-Machi-zlurhm0vbw22qka]
